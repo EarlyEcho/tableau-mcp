@@ -13,3 +13,6 @@ tableau-mcp.dxt
 tableau-mcp.mcpb
 *.pem
 *.tgz
+
+#Ignore vscode AI rules
+.github/instructions/codacy.instructions.md
